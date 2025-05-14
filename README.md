@@ -1,2 +1,1 @@
-# gitCourse
-Test project for GitHub tutorial
+Hello World! 
